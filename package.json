@@ -1,0 +1,12 @@
+{
+  "name": "doleacApp",
+  "main": "server/server.js",
+  "dependencies": {
+    "body-parser": "~1.4.2",
+    "express": "~4.5.1",
+    "lodash": "^2.4.1",
+    "method-override": "~2.0.2",
+    "mongodb-uri": "^0.9.7",
+    "mongoose": "^3.8.17"
+  }
+}

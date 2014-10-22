@@ -1,0 +1,16 @@
+{
+  "name": "doleacApp",
+  "version": "0.0.0",
+  "main": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~0.11.2",
+    "angular": "~1.3.0",
+    "angular-ui-router": "~0.2.11"
+  },
+  "devDependencies": {}
+}
